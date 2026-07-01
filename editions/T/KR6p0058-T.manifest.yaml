@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6p0058/T/v1
+canonical_location: https://kanripo.org/bkk/KR6p0058/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨土疑辨
+  identifiers:
+    krp: KR6p0058
+    cbeta: T47n1977
+    cbeta_old_id: T47n1977
+    authorityid: CA0001856
+    json_key: T1977
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1977.xml
+    old_id: T47n1977
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0058_000-T.yaml, hash: 'sha256:910d14f555225661706f9e69ca861d3c641c4467e8dd5e02ee8b7879b157351c'}
+  - {seq: 1, filename: KR6p0058_001-T.yaml, hash: 'sha256:7fefe9c668a145d49e695132c3edb6f3d995e37f90d5f834d4e686563e0e3a2c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0058_000-T.markers.yaml, hash: 'sha256:15125352faf5166f81084b9ce825ddc3ce3bf646625f04f8e851e9b350ac34f8'}
+  - {seq: 1, role: markers, filename: assets/KR6p0058_001-T.markers.yaml, hash: 'sha256:17f8a5f86b95087dc847b3f3776f04b124d89ec7fa277b0f6e8e7044e4feb186'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0058_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 淨土疑辨序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0058_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 884
+  label: 淨土疑辯
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0058_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 淨土疑辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0058_T_001-mulu-2
+    span:
+    - body
+    - 789
+    - 789
+  label: 淨土疑辨後跋
+  type: mulu
+  level: 1
+hash: sha256:8873a8f04f55824f30feffce1d49a23a5d441b6b82e666e19100231400c417a9
