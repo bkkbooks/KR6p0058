@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6p0058/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 淨土疑辨序豫章微休居士陳所蘊撰蓮池禪師作淨土疑辨摧慢幢破癡網如暗得燈如貧得寶真渡苦海之慈航哉即天台永明之論未有若此之精切而著明者也修淨土者最宜服膺或疑未後戒彼恣意妄談貽苦報於無盡其言得無已甚乎余曰非已甚也嘗考唐房翥暴卒至冥間見王王曰據案簿君曾勸一老人念佛已生淨土君承此福亦合生淨土遂放還呂師説云闡提之輩不信有西方不能自修又障他人修入地獄如箭射夫一口業也勸人念佛亦令生淨土障人念佛入地獄如箭射恣口業者其真可懼也哉故曰蓮池禪師之言非已甚也序畢
   hash: sha256:7c6b7ca707a694c839ef211fbd4f9abec74e1678b44c8c72a2180c86173ece3e
   markers:
   - {type: 序, offset: 0, content: 淨土疑辨序, id: KR6p0058_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 淨土疑辨
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T47/T47n1977.xml
     old_id: T47n1977
-hash: sha256:b06d07d063ccf89eff2ea31cbb7eb82a0a0cfc6d25e60936195b867af891a347
+hash: sha256:1f2d61336afcd01129eae5e4fd5caebfd5ac1cbfd366dc272bd6b83b5733347d

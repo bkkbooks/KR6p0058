@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6p0058_000-T.yaml, hash: 'sha256:910d14f555225661706f9e69ca861d3c641c4467e8dd5e02ee8b7879b157351c'}
+  - {seq: 0, filename: KR6p0058_000-T.yaml, hash: 'sha256:1b749aa7515b4691143adee84390b626060ff88c2815531d228fe52b3961f2a3'}
   - {seq: 1, filename: KR6p0058_001-T.yaml, hash: 'sha256:7fefe9c668a145d49e695132c3edb6f3d995e37f90d5f834d4e686563e0e3a2c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0058_000-T.markers.yaml, hash: 'sha256:15125352faf5166f81084b9ce825ddc3ce3bf646625f04f8e851e9b350ac34f8'}
+  - {seq: 0, role: markers, filename: assets/KR6p0058_000-T.markers.yaml, hash: 'sha256:6fd3901c2551445f9828241f699ddbf97dde89c464113b55977cca2cb0df7c78'}
   - {seq: 1, role: markers, filename: assets/KR6p0058_001-T.markers.yaml, hash: 'sha256:17f8a5f86b95087dc847b3f3776f04b124d89ec7fa277b0f6e8e7044e4feb186'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0058_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 淨土疑辨序
@@ -65,4 +65,4 @@ table_of_contents:
   label: 淨土疑辨後跋
   type: mulu
   level: 1
-hash: sha256:8873a8f04f55824f30feffce1d49a23a5d441b6b82e666e19100231400c417a9
+hash: sha256:4f17f333d41f9395f39d6af3011ff1552beab82f4a6328b0f111b59c913ee078
